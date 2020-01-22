@@ -6,5 +6,6 @@ int main()
     printf("One more line\n");
     printf("One more line\n");
     printf("Add one more\n");
+    printf("So, is it work properly?\n");
     return 0;
 }
