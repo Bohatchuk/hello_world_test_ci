@@ -7,6 +7,7 @@ int main()
     printf("One more line\n");
     printf("Add one more\n");
     printf("So, is it work properly?\n");
-    printf("let's check votes\n")
+    printf("let's check votes\n");
+    printf("what about votes now?\n");
     return 0;
 }
