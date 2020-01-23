@@ -10,6 +10,6 @@ int main()
     printf("let's check votes\n");
     printf("what about votes now?\n");
     printf("are you working?\n");
-    printf("i'm so tired\n");
+    printf("i'm so tired......\n");
     return 0;
 }
