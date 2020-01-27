@@ -11,5 +11,6 @@ int main()
     printf("what about votes now?\n");
     printf("are you working?\n");
     printf("i'm so tired......\n");
+    printf("should work\n");
     return 0;
 }
