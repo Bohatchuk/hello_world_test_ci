@@ -1,4 +1,4 @@
-//#include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -11,6 +11,5 @@ int main()
     printf("what about votes now?\n");
     printf("are you working?\n");
     printf("i'm so tired......\n");
-    shouldfailbecauseofthis;
     return 0;
 }
