@@ -12,6 +12,6 @@ int main()
     printf("are you working?\n");
     printf("i'm so tired......\n");
     printf("want to find the issue\n");
-    printf("check\n");
+    printf("check please\n");
     return 0;
 }
