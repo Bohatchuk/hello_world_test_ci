@@ -18,5 +18,6 @@ int main()
     printf("show must go on\n");
     printf("i want to break free\n");
     printf("bla bla bla and one more time bla\n");
+    printf("i want the party");
     return 0;
 }
