@@ -15,5 +15,6 @@ int main()
     printf("check please\n");
     printf("i believe i can fly\n");
     printf("i believe i can touch the sky\n");
+    printf("show must go on\n");
     return 0;
 }
