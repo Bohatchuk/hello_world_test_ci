@@ -20,5 +20,6 @@ int main()
     printf("bla bla bla and one more time bla\n");
     printf("i want the party");
     printf("once again +++");
+    printf("is it working?\n")
     return 0;
 }
