@@ -5,7 +5,6 @@ int main()
     printf("Hello world!\n");
     printf("One more line\n");
     printf("So, is it work properly?\n");
-    printf("what about votes now?\n");
     printf("are you working?\n");
     printf("i'm so tired......\n");
     printf("want to find the issue\n");
