@@ -1,4 +1,4 @@
-//#include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -9,6 +9,5 @@ int main()
     printf("So, is it work properly?\n");
     printf("let's check votes\n");
     printf("what about votes now?\n");
-    shouldfailbecauseofthis;
     return 0;
 }
